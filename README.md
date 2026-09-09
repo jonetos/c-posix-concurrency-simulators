@@ -2,7 +2,7 @@
 
 This repository contains C implementations of a multi-level process scheduler and a concurrent Inter-Process Communication (IPC) simulator. 
 
-> ** Academic Context:** This project was developed for the Operating Systems laboratory at the Public University of Navarre (UPNA). The architectural design, process topology, and core system requirements were provided by the university's engineering department. My work consisted of writing the C code to execute these specifications, managing POSIX system calls, and ensuring memory-safe execution without busy-waiting.
+> Academic Context: This project was developed for the Operating Systems laboratory at the Public University of Navarre (UPNA). The architectural design, process topology, and core system requirements were provided by the university's engineering department. My work consisted of writing the C code to execute these specifications, managing POSIX system calls, and ensuring memory-safe execution without busy-waiting.
 
 ##  Project Structure
 
